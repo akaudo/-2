@@ -3,7 +3,9 @@
 
 #include "stdafx.h"
 
-
+int chengfa(int a,int b){
+	return(a*b);
+}
 int _tmain(int argc, _TCHAR* argv[])
 {
 	return 0;
