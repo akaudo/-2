@@ -1,10 +1,10 @@
-// main.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// main.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
 
-int add(int a, int b){
-	return (a + b);
+int sub(int a, int b){
+	return (a - b);
 }
 int _tmain(int argc, _TCHAR* argv[])
 {
